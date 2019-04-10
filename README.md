@@ -1,6 +1,6 @@
 # 简介
 本系统目的是为了完成机器学习算法模型的在线管理功能。功能包括模型管理，模型版本管理，并自动生成模型版本api服务接口。
-接口管理地址 ：http://www.xiaoyaoji.cn/share/1wI4pWAr2h 阅读密码:123123
+接口管理地址 ：http://www.xiaoyaoji.cn/share/1wI4pWAr2h 
 # 项目目录介绍
 docs 项目相关文件资料 <br/>
 log 日志 <br/>
